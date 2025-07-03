@@ -8,6 +8,7 @@
 - Easily extendable with tools, retrieval, agents, and more
 
 ## Setup Instructions
+Firstly Unzip the file.
 
 1. **Create virtual environment**:
 ```bash (Terminal)
