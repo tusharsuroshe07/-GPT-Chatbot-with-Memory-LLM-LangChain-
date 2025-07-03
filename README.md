@@ -7,7 +7,7 @@
 - Remembers previous messages using ConversationBufferMemory
 - Easily extendable with tools, retrieval, agents, and more.
 
-  ## Firstly Unzip the file.
+  ## --Firstly Unzip the file.
 
 ## Setup Instructions
 
