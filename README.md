@@ -5,10 +5,11 @@
 
 ## Features
 - Remembers previous messages using ConversationBufferMemory
-- Easily extendable with tools, retrieval, agents, and more
+- Easily extendable with tools, retrieval, agents, and more.
+
+  ## Firstly Unzip the file.
 
 ## Setup Instructions
-Firstly Unzip the file.
 
 1. **Create virtual environment**:
 ```bash (Terminal)
